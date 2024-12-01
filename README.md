@@ -14,7 +14,7 @@ This project implements a chatbot that answers user queries based on the content
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/username/Kunal_Patil_Thesis_SAM.git
+    https://github.com/KunalPatil8020/PDF-Based-Chatbot.git
     ```
 2. ```bash
     pip install -r requirements.txt
